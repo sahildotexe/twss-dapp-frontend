@@ -1,1 +1,3 @@
-# Metaplex Candy Machine Reference UI
+# That's What She Said NFT minting dapp.
+
+
